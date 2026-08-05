@@ -1,0 +1,7816 @@
+[
+  {
+    "identifier": "A",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Augsburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AA",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ostalbkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Aschaffenburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ABG",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Altenburger Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ABI",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Anhalt-Bitterfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AC",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Städteregion Aachen",
+        "authorityType": "CITY_REGION"
+      }
+    ]
+  },
+  {
+    "identifier": "AE",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vogtlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AH",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Borken",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AIB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "München",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Rosenheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AIC",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Aichach-Friedberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AK",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Altenkirchen (Westerwald)",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ALF",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Landkreis Hildesheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ALZ",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Aschaffenburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ansbach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ANA",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erzgebirgskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ANG",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Uckermark",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ANK",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Greifswald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AP",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Weimarer Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "APD",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Weimarer Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ARN",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ilm-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ART",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kyffhäuserkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AS",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Amberg-Sulzbach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ASL",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Salzlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ASZ",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erzgebirgskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AT",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mecklenburgische Seenplatte",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AU",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erzgebirgskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AUR",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Aurich",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AW",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ahrweiler",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AZ",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Alzey-Worms",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AZE",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Anhalt-Bitterfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "AÖ",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Altötting",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "B",
+    "federalState": "Berlin",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Berlin",
+        "authorityType": "CITY_STATE"
+      }
+    ]
+  },
+  {
+    "identifier": "BA",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bamberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BAD",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Baden-Baden",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "BAR",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Barnim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BB",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Böblingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BBG",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Salzlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BC",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Biberach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BCH",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neckar-Odenwald-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Warendorf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BED",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mittelsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BEL",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Potsdam-Mittelmark",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BER",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Barnim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BF",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Steinfurt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BGD",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Berchtesgadener Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BGL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Berchtesgadener Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BH",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ortenaukreis",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Raststatt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BI",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bielefeld",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "BID",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Marburg-Biedenkopf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BIN",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mainz-Bingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BIR",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Birkenfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BIT",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Eifelkreis Bitburg-Prüm",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BIW",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bautzen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BK",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Börde",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Rems-Murr-Kreis",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Schwäbisch Hall",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BKS",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bernkastel-Wittlich",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BL",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Zollernalbkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BLB",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Siegen-Wittgenstein",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BLK",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Burgenlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BM",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhein-Erft-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BN",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bonn",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "BNA",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Leipzig",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BO",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bochum",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "BOG",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Straubing-Bogen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BOH",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Borken",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BOR",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Borken",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BOT",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bottrop",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "BR",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Karlsruhe",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BRA",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wesermarsch",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BRG",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Jerichower Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BRK",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bad Kissingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BRL",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Goslar",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BRV",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rotenburg (Wümme)",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BS",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Braunschweig",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "BSB",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Osnabrück",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BSK",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oder-Spree",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BT",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bayreuth",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BTF",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Anhalt-Bitterfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BUL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Amberg-Sulzbach",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Schwandorf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BZ",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bautzen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BÖ",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Börde",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BÜD",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wetteraukreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BÜR",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Paderborn",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BÜS",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Konstanz",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Gemeinde Büsingen am Hochrhein",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "BÜZ",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rostock , Landkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "CA",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oberspreewald-Lausitz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "CAS",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Recklinghausen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "CE",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Celle",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "CHA",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Cham",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "CLP",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Cloppenburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "CLZ",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Goslar",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "CO",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Zulassungsstelle Coburg",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Zweckverband",
+        "authorityType": "SPECIAL_ASSOCIATION"
+      }
+    ]
+  },
+  {
+    "identifier": "COC",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Cochem-Zell",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "COE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Coesfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "CR",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwäbisch Hall",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "CUX",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Cuxhaven",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "CW",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Calw",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "D",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Düsseldorf",
+        "authorityType": "STATE_CAPITAL"
+      }
+    ]
+  },
+  {
+    "identifier": "DA",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Darmstadt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DAH",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dachau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DAN",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lüchow-Dannenberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DAU",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vulkaneifel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DBR",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rostock , Landkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DD",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dresden",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "DE",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dessau-Roßlau",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "DEG",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Deggendorf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DEL",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Delmenhorst",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "DGF",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dingolfing-Landau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DH",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Diepholz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DI",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Darmstadt-Dieburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DIL",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lahn-Dill-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DIN",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wesel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DIZ",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhein-Lahn-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DKB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ansbach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DL",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mittelsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DLG",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dillingen an der Donau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DM",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mecklenburgische Seenplatte",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DN",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Düren",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DO",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dortmund",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "DON",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Donau-Ries in Donauwörth",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DS",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwarzwald-Baar-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DT",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lippe",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DU",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Duisburg",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "DUD",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Göttingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DW",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Sächsische Schweiz-Osterzgebirge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DZ",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "DÜW",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bad Dürkheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "E",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Essen",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "EA",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wartburgkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EB",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EBE",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ebersberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EBN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Haßberge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EBS",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bayreuth",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Forchheim",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Kulmbach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ECK",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rendsburg-Eckernförde",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ED",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erding",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EE",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Elbe-Elster",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EG",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rottal-Inn",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EH",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oder-Spree",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EI",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Eichstätt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EIC",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Eichsfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EIL",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mansfeld-Südharz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EIN",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Northeim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EIS",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saale-Holzland-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EL",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Emsland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EM",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Emmendingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EMD",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Emden",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "EMS",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhein-Lahn-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EN",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ennepe-Ruhr-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ERB",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Odenwaldkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ERH",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erlangen-Höchstadt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ERK",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Heinsberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ERZ",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erzgebirgskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ES",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Esslingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ESB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Amberg-Sulzbach",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Bayreuth",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Neustadt a. d. Waldnaab",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Nürnberger Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ESW",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Werra-Meißner-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EU",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Euskirchen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "EW",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Barnim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "F",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Frankfurt am Main",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "FB",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wetteraukreis in Friedberg Hessen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FD",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Fulda",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FDB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Aichach-Friedberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FDS",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Freudenstadt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FEU",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ansbach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FF",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Frankfurt (Oder)",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "FFB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Fürstenfeldbruck",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FG",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mittelsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FI",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Elbe-Elster",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FKB",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Waldeck-Frankenberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FL",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Flensburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FLÖ",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mittelsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FN",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bodenseekreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FO",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Forchheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FOR",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Spree-Neiße",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FR",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Freiburg im Breisgau",
+        "authorityType": "INDEPENDENT_CITY"
+      },
+      {
+        "name": "Breisgau-Hochschwarzwald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FRG",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Freyung-Grafenau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FRI",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Friesland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FRW",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Märkisch-Oderland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FS",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Freising",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Moosburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FTL",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Sächsische Schweiz-Osterzgebirge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FW",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oder-Spree",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FZ",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwalm-Eder-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FÜ",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Fürth",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "FÜS",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ostallgäu",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GA",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Altmarkkreis Salzwedel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GAN",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Northeim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GAP",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Garmisch-Partenkirchen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GC",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Zwickau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GD",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ostalbkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GDB",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordwestmecklenburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Gelsenkirchen",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "GEL",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kleve",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GEO",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Haßberge",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Schweinfurt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GER",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Germersheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GF",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Gifhorn",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GG",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Groß-Gerau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GHA",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Leipzig",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GHC",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wittenberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GI",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Gießen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GK",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Heinsberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GL",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rheinisch-Bergischer Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GLA",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Recklinghausen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GM",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oberbergischer Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GMN",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Rügen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GN",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Main-Kinzig-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GNT",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Jerichower Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GOA",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhein-Hunsrück-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GOH",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhein-Lahn-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GP",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Göppingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GR",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Görlitz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GRA",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Freyung-Grafenau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GRH",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Meißen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GRI",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rottal-Inn",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GRM",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Leipzig",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GRZ",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Greiz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GS",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Goslar",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GT",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Gütersloh",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GTH",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Gotha",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GUB",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Spree-Neiße",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GUN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Weißenburg-Gunzenhausen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GV",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhein-Kreis Neuss",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GVM",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordwestmecklenburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GW",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Greifswald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GZ",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Günzburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GÖ",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Göttingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "GÜ",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rostock",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "H",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Region Hannover",
+        "authorityType": "CITY_REGION"
+      }
+    ]
+  },
+  {
+    "identifier": "HA",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hagen",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "HAB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bad Kissingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HAL",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Halle",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "HAM",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hamm",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "HAS",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Haßberge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HB",
+    "federalState": "Bremen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bremen",
+        "authorityType": "CITY_STATE"
+      },
+      {
+        "name": "Bremerhaven",
+        "authorityType": "CITY_STATE"
+      }
+    ]
+  },
+  {
+    "identifier": "HBN",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hildburghausen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HBS",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Harz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HC",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mittelsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HCH",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Freudenstadt",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Zollernalbkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HD",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Heidelberg",
+        "authorityType": "INDEPENDENT_CITY"
+      },
+      {
+        "name": "Rhein-Neckar- Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HDH",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Heidenheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HDL",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Börde",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HE",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Helmstedt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HEB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nürnberger Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HEF",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hersfeld-Rotenburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HEI",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dithmarschen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HER",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Herne",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "HET",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mansfeld-Südharz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HF",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Herford",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HG",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hochtaunuskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HGN",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ludwigslust-Parchim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HGW",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hansestadt Greifswald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HH",
+    "federalState": "Hamburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hamburg",
+        "authorityType": "CITY_STATE"
+      }
+    ]
+  },
+  {
+    "identifier": "HHM",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Burgenlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HI",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hildesheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HIG",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Eichsfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HIP",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Roth",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HK",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Heidekreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HL",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hansestadt Lübeck",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HM",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hameln-Pyrmont",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HMÜ",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Göttingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HN",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Heilbronn",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HO",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hof",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HOG",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kassel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HOH",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Haßberge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HOL",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Holzminden",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HOM",
+    "federalState": "Saarland",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saarpfalz-Kreis außer Stadt St. Ingbert (IGB)",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HOR",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Freudenstadt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HOT",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Zwickau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HP",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bergstraße",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HR",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwalm-Eder-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HRO",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hansestadt Rostock",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "HS",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Heinsberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HSK",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hochsauerlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HU",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hanau",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Main-Kinzig-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HV",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Stendal",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HVL",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Havelland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HWI",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hansestadt Wismar",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HX",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Höxter",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HY",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bautzen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HZ",
+    "federalState": "Sachsen-Anhalt",
+    "status": "REINTRODUCED",
+    "authorities": [
+      {
+        "name": "Landkreis Harz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "HÖS",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erlangen-Höchstadt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "IGB",
+    "federalState": "Saarland",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "St. Ingbert",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "IK",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ilm-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "IL",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ilm-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ILL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neu-Ulm",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "IZ",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Steinburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "JB",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Teltow-Fläming",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "JE",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wittenberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "JL",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Jerichower Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "JÜL",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Düren",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "K",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Köln",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "KA",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Karlsruhe",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KB",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Waldeck-Frankenberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KC",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kronach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KEH",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kelheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KEL",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ortenaukreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KEM",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bayreuth",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Tirschenreuth",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KG",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bad Kissingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KH",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bad Kreuznach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KI",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kiel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KIB",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Donnersbergkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KK",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Viersen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KL",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kaiserslautern",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KLE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kleve",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KLZ",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Altmarkkreis Salzwedel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KM",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bautzen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KN",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Konstanz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KR",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Krefeld",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "KRU",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Günzburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KS",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kassel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KT",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kitzingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KU",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kulmbach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KUS",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kusel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KW",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dahme-Spreewald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KY",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ostprignitz-Ruppin",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KYF",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kyffhäuserkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KÖN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhön-Grabfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KÖT",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Anhalt-Bitterfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KÖZ",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Cham",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "KÜN",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hohenlohekreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "L",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Leipzig",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "LA",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Landshut",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LAN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dingolfing-Landau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LAU",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nürnberger Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LB",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ludwigsburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LBS",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saale-Orla-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LBZ",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ludwigslust-Parchim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LC",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dahme-Spreewald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LDK",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lahn-Dill-Kreis in Wetzlar",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LDS",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dahme-Spreewald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lippe",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LEO",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Böblingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LER",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Leer",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LEV",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Leverkusen",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "LF",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Altötting",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Berchtesgadener Land",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Traunstein",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LG",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lüneburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LH",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Coesfeld",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Unna",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LI",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lindau (Bodensee)",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LIB",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Elbe-Elster",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LIF",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lichtenfels",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LIP",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lippe",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LK",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Minden-Lübbecke",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Landsberg am Lech",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LM",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Limburg-Weilburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LN",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dahme-Spreewald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LOS",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oder-Spree",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LP",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Soest",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LR",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ortenaukreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LRO",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rostock , Landkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LSZ",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Unstrut-Hainich-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LUK",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Teltow-Fläming",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LUP",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ludwigslust-Parchim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LWL",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ludwigslust-Parchim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LÖ",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lörrach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LÖB",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Görlitz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "LÜN",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Unna",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "M",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "München, Landeshauptstadt",
+        "authorityType": "STATE_CAPITAL"
+      },
+      {
+        "name": "Landkreis München",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MAB",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erzgebirgskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MAI",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kelheim",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Landshut",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MAK",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wunsiedel i. Fichtelgebirge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MAL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Landshut Straubing-Bogen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Miesbach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MC",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mecklenburgische Seenplatte",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MD",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Magdeburg",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "ME",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mettmann",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MED",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dithmarschen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MEG",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwalm-Eder-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MEI",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Meißen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MEK",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erzgebirgskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MEL",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Osnabrück",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MER",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saalekreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MET",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhön-Grabfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MG",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mönchengladbach",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "MGH",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Main-Tauber-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MGN",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schmalkalden-Meiningen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MH",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mülheim an der Ruhr",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "MHL",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Unstrut-Hainich-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MI",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Minden-Lübbecke",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MIL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Miltenberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MK",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Märkischer Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MKK",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Main-Kinzig-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ML",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mansfeld-Südharz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Unterallgäu",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MO",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wesel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MOD",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ostallgäu",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MOL",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Märkisch-Oderland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MON",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Aachen",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Düren",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MOS",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neckar-Odenwald-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MQ",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saalekreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MR",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Marburg-Biedenkopf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MS",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Münster",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "MSE",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mecklenburgische Seenplatte",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MSH",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mansfeld-Südharz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MSP",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Main-Spessart",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MST",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mecklenburgische Seenplatte",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MTK",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Main-Taunus-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MTL",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Leipzig",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MU",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "München",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MUC",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "München",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "MW",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mittelsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MY",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mayen-Koblenz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MYK",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mayen-Koblenz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MZ",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mainz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MZG",
+    "federalState": "Saarland",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Merzig-Wadern",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MÜ",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mühldorf am Inn",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MÜB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bayreuth",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Hof",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MÜL",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Breisgau-Hochschwarzwald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "MÜR",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mecklenburgische Seenplatte",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "N",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nürnberg Stadt",
+        "authorityType": "INDEPENDENT_CITY"
+      },
+      {
+        "name": "Nürnberger Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NAB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Amberg-Sulzbach",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Schwandorf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NAI",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hof",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NAU",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Havelland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ND",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neuburg-Schrobenhausen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NDH",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordhausen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhein-Kreis Neuss",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NEA",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neustadt an der Aisch- Bad Winsheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NEB",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Burgenlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NEC",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Zulassungsstelle Coburg",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Zweckverband",
+        "authorityType": "SPECIAL_ASSOCIATION"
+      }
+    ]
+  },
+  {
+    "identifier": "NEN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwandorf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NES",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhön-Grabfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NEU",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Breisgau-Hochschwarzwald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NEW",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neustadt an der Waldnaab",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NF",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordfriesland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NH",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Sonneberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NI",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nienburg (Weser)",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NK",
+    "federalState": "Saarland",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neunkirchen Saar",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NM",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neumarkt in der Oberpfalz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NMB",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Burgenlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NMS",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neumünster",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NOH",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Grafschaft Bentheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NOL",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Görlitz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NOM",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Northeim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NOR",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Aurich",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NP",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ostprignitz-Ruppin",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NR",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neuwied",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NT",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Esslingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NU",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neu-Ulm",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NVP",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Rügen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NWM",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordwestmecklenburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NY",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Görlitz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NZ",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mecklenburgische Seenplatte",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "NÖ",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Donau-Ries",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OA",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oberallgäu",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OAL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ostallgäu",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OB",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oberhausen",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "OBB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Miltenberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OBG",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Stendal",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OC",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Börde",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OCH",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Würzburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OD",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Stormarn",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Olpe",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OF",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Offenbach am Main",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OG",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ortenaukreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OH",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ostholstein",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OHA",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Göttingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OHV",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oberhavel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OHZ",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Osterholz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OK",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Börde",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OL",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oldenburg (Oldenburg)",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OP",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Leverkusen",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "OPR",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ostprignitz-Ruppin",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OS",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Osnabrück",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OSL",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oberspreewald-Lausitz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OTW",
+    "federalState": "Saarland",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neunkirchen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OVI",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwandorf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OVL",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vogtlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OVP",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Greifswald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "OZ",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PA",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Passau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PAF",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Pfaffenhofen a. d. Ilm",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PAN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rottal-Inn",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PAR",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kehlheim",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Neumarkt i. d. Opf.",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PB",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Paderborn",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PCH",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ludwigslust-Parchim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PE",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Peine",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PEG",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bayreuth",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Forchheim",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Nürnberger Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PF",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Pforzheim",
+        "authorityType": "INDEPENDENT_CITY"
+      },
+      {
+        "name": "Enzkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PI",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Pinneberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PIR",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Sächsische Schweiz-Osterzgebirge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PL",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vogtlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PLÖ",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Plön",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PM",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Potsdam-Mittelmark",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PN",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saale-Orla-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PR",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Prignitz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PRÜ",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Eifelkreis Bitburg-Prüm",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PS",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Pirmasens",
+        "authorityType": "INDEPENDENT_CITY"
+      },
+      {
+        "name": "Südwestpfalz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PW",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Greifswald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "PZ",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Uckermark",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "QFT",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saalekreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "QLB",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Harz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "R",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Regensburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RA",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rastatt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RC",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vogtlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RD",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rendsburg-Eckernförde",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RDG",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Rügen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Recklinghausen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "REG",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Regen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "REH",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hof",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Wunsiedel im Fichtelgebirge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "REI",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Berchtesgadener Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RG",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Meißen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RH",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Roth",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RI",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Landkreis Schaumburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RID",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kelheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RIE",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Meißen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RL",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mittelsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RM",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mecklenburgische Seenplatte",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RN",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Havelland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RO",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rosenheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ROD",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Cham",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Schwandorf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ROF",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hersfeld-Rotenburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ROK",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Donnersbergkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ROL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kelheim",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Landshut",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ROS",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rostock , Landkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ROT",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ansbach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ROW",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rotenburg (Wümme)",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RP",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhein-Pfalz-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RS",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Remscheid",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "RSL",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Dessau-Roßlau",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "RT",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Reutlingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RU",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saalfeld-Rudolstadt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RV",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ravensburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RW",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rottweil",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RZ",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Herzogtum Lauenburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RÜD",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rheingau-Taunus Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "RÜG",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Rügen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "S",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Stuttgart",
+        "authorityType": "STATE_CAPITAL"
+      }
+    ]
+  },
+  {
+    "identifier": "SAB",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Trier-Saarburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SAD",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwandorf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SAN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hof",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Kronach",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Kulmbach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SAW",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Altmarkkreis Salzwedel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SB",
+    "federalState": "Saarland",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Regionalverband Saarbrücken",
+        "authorityType": "REGIONAL_ASSOCIATION"
+      },
+      {
+        "name": "Saarbrücken",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "SBG",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Greifswald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SBK",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Salzlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SCZ",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saale-Orla-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SDH",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kyffhäuserkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SDL",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Stendal",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SDT",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Uckermark",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SE",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Segeberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SEB",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Sächsische Schweiz-Osterzgebirge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SEE",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Märkisch-Oderland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SEF",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neustadt a. d. Aisch-Bad Winds- heim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SEL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wunsiedel i. Fichtelgebirge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SFB",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Oberspreewald-Lausitz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SFT",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Salzlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SG",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Solingen",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "SGH",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mansfeld-Südharz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SHA",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwäbisch Hall",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SHG",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schaumburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SHK",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saale-Holzland-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SI",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Siegen-Wittgenstein",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SIG",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Sigmaringen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SIM",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhein-Hunsrück-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SK",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saalekreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SL",
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schleswig-Flensburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SLE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Düren",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Euskirchen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SLF",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saalfeld-Rudolstadt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SLG",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ravensburg",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Sigmaringen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SLK",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Salzlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SLN",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Altenburger Land",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SLS",
+    "federalState": "Saarland",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saarlouis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SLZ",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wartburgkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SLÜ",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Main-Kinzig-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SM",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schmalkalden-Meiningen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SMÜ",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Augsburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SO",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Soest",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SOB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neuburg-Schrobenhausen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SOG",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Weilheim-Schongau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SOK",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saale-Orla-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SON",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Sonneberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SPB",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Spree-Neiße",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SPN",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Spree-Neiße",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SR",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Straubing",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Straubing-Bogen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SRB",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Märkisch-Oderland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SRO",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Saale-Holzland-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ST",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Steinfurt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "STA",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Starnberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "STB",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ludwigslust-Parchim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "STD",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Stade",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "STE",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lichtenfels",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "STL",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erzgebirgskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "STO",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Konstanz",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Sigmaringen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SU",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rhein-Sieg-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SUL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Amberg-Sulzbach",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SW",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schweinfurt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SWA",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rheingau-Taunus-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SY",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Diepholz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SZ",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Salzgitter",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "SZB",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erzgebirgskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SÄK",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Waldshut",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SÖM",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Sömmerda",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "SÜW",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Südliche Weinstraße",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TBB",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Main-Tauber-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TDO",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Steinfurt",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TET",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rostock , Landkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TF",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Teltow-Fläming",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TG",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TIR",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Tirschenreuth",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TO",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordsachsen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TP",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Uckermark",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TR",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Trier",
+        "authorityType": "INDEPENDENT_CITY"
+      },
+      {
+        "name": "Trier-Saarburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TS",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Traunstein",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TT",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bodenseekreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TUT",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Tuttlingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TÖL",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bad Tölz-Wolfratshausen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "TÜ",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Tübingen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "UE",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Uelzen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "UEM",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Greifswald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "UER",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Greifswald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "UFF",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neustadt a. d. Aisch-Bad Windsheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "UH",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Unstrut-Hainich-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "UL",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ulm",
+        "authorityType": "INDEPENDENT_CITY"
+      },
+      {
+        "name": "Alb-Donaukreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "UM",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Uckermark",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "UN",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Unna",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "USI",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hochtaunuskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "V",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vogtlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VAI",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ludwigsburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VB",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vogelsbergkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VEC",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vechta",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VER",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Verden",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VG",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Greifswald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VIB",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Landshut",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Rottal-Inn",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VIE",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Viersen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VIT",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Regen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VK",
+    "federalState": "Saarland",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Völklingen",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "VOH",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neustadt a. d. Waldnaab",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VR",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Rügen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "VS",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwarzwald-Baar-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "W",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wuppertal",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "WA",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Waldeck-Frankenberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WAF",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Warendorf",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WAK",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wartburgkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WAN",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Herne",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "WAR",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Höxter",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WAT",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bochum",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "WB",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wittenberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WBG",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wolfsburg",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "WBS",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Eichsfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WDA",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Zwickau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WEL",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Limburg-Weilburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WEN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Weiden in der Oberpfalz",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "WER",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Augsburg",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Dillingen a. d. Donau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WES",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wesel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WF",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wolfenbüttel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WG",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ravensburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WHV",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wilhelmshaven",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "WI",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wiesbaden",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "WIL",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bernkastel-Wittlich",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WIS",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Nordwestmecklenburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WIT",
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ennepe-Ruhr-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WIZ",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Werra-Meißner-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WK",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ostprignitz-Ruppin",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WL",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Harburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WLG",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Vorpommern-Greifswald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WM",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Weilheim-Schongau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WMS",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Börde",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WN",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Rems-Murr-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WND",
+    "federalState": "Saarland",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "St. Wendel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WO",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Worms",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "WOB",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wolfsburg",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "WOH",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kassel",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WOL",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Freudenstadt",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Ortenaukreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WOR",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Bad Tölz-Wolfratshausen",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "München",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Starnberg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WOS",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Freyung-Grafenau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WR",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Harz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WRN",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mecklenburgische Seenplatte",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WS",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mühldorf am Inn",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Rosenheim",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WSF",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Burgenlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WST",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ammerland",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WSW",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Görlitz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WT",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Waldshut",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WTL",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Osnabrück",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WTM",
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wittmund",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WUG",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Weißenburg-Gunzenhausen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WUN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Wunsiedel im Fichtelgebirge",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WUR",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Leipzig",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WW",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Westerwald",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WZ",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Lahn-Dill-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WZL",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Börde",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WÜ",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Würzburg",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "WÜM",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Cham",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "Z",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Zwickau",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ZE",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Anhalt-Bitterfeld",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ZEL",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Cochem-Zell",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ZI",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Görlitz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ZIG",
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwalm-Eder-Kreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ZP",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erzgebirgskreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ZR",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Greiz",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ZS",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Teltow-Fläming",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ZW",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Südwestpfalz",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Zweibrücken",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ]
+  },
+  {
+    "identifier": "ZZ",
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Burgenlandkreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ÖHR",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hohenlohekreis",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  },
+  {
+    "identifier": "ÜB",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ravensburg",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Bodenseekreis",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Sigmaringen",
+        "authorityType": "DISTRICT"
+      }
+    ]
+  }
+]

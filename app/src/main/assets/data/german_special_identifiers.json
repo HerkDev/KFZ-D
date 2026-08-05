@@ -1,0 +1,238 @@
+[
+  {
+    "identifier": "0-1",
+    "type": "GOVERNMENT",
+    "authorityNames": [
+      "Bundespräsident"
+    ],
+    "federalState": "Deutschland",
+    "status": "ACTIVE",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Aktuelle repräsentative Zuordnung."
+  },
+  {
+    "identifier": "0-2",
+    "type": "GOVERNMENT",
+    "authorityNames": [
+      "Bundeskanzler"
+    ],
+    "federalState": "Deutschland",
+    "status": "CONVENTIONAL",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Konventionelle repräsentative Zuordnung; die aktuelle Vergabepraxis ist nicht gesetzlich als feste Amtsnummer veröffentlicht."
+  },
+  {
+    "identifier": "0-3",
+    "type": "GOVERNMENT",
+    "authorityNames": [
+      "Bundesminister des Auswärtigen"
+    ],
+    "federalState": "Deutschland",
+    "status": "ACTIVE",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Aktuell bei offiziellen Anlässen verwendete repräsentative Zuordnung."
+  },
+  {
+    "identifier": "0-4",
+    "type": "GOVERNMENT",
+    "authorityNames": [
+      "Erster beamteter Staatssekretär im Auswärtigen Amt"
+    ],
+    "federalState": "Deutschland",
+    "status": "HISTORICAL",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Frühere repräsentative Zuordnung; laut Quelle heute nicht mehr regulär ausgegeben."
+  },
+  {
+    "identifier": "0-5",
+    "type": "GOVERNMENT",
+    "authorityNames": [
+      "Zweiter beamteter Staatssekretär im Auswärtigen Amt"
+    ],
+    "federalState": "Deutschland",
+    "status": "HISTORICAL",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Frühere repräsentative Zuordnung; laut Quelle heute nicht mehr regulär ausgegeben."
+  },
+  {
+    "identifier": "0-6",
+    "type": "GOVERNMENT",
+    "authorityNames": [
+      "Erster parlamentarischer Staatsminister im Auswärtigen Amt"
+    ],
+    "federalState": "Deutschland",
+    "status": "HISTORICAL",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Frühere repräsentative Zuordnung; laut Quelle heute nicht mehr regulär ausgegeben."
+  },
+  {
+    "identifier": "0-7",
+    "type": "GOVERNMENT",
+    "authorityNames": [
+      "Zweiter parlamentarischer Staatsminister im Auswärtigen Amt"
+    ],
+    "federalState": "Deutschland",
+    "status": "HISTORICAL",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Frühere repräsentative Zuordnung; laut Quelle heute nicht mehr regulär ausgegeben."
+  },
+  {
+    "identifier": "0-8",
+    "type": "GOVERNMENT",
+    "authorityNames": [
+      "Chef des Protokolls im Auswärtigen Amt"
+    ],
+    "federalState": "Deutschland",
+    "status": "HISTORICAL",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Frühere repräsentative Zuordnung; laut Quelle heute nicht mehr regulär ausgegeben."
+  },
+  {
+    "identifier": "BD",
+    "type": "FEDERAL_AUTHORITY",
+    "authorityNames": [
+      "Bundesdienst / Bundesbehörden"
+    ],
+    "federalState": "Deutschland",
+    "status": "ACTIVE",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Bestehender lokaler Sonderkennzeichen-Eintrag."
+  },
+  {
+    "identifier": "BP",
+    "type": "FEDERAL_AUTHORITY",
+    "authorityNames": [
+      "Bundespolizei"
+    ],
+    "federalState": "Deutschland",
+    "status": "EXPIRING",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Bestehender lokaler Sonderkennzeichen-Eintrag."
+  },
+  {
+    "identifier": "THW",
+    "type": "TECHNICAL_RELIEF",
+    "authorityNames": [
+      "Technisches Hilfswerk"
+    ],
+    "federalState": "Deutschland",
+    "status": "ACTIVE",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Bestehender lokaler Sonderkennzeichen-Eintrag."
+  },
+  {
+    "identifier": "Y",
+    "type": "MILITARY",
+    "authorityNames": [
+      "Bundeswehr"
+    ],
+    "federalState": "Deutschland",
+    "status": "ACTIVE",
+    "source": "https://kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung",
+    "notes": "Bestehender lokaler Sonderkennzeichen-Eintrag."
+  },
+  {
+    "identifier": "BBL",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Brandenburg Landesregierung, Landtag und Polizei"],
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "BWL",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Baden-Württemberg Landesregierung, Landtag und Polizei"],
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "BYL",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Bayern Landesregierung und Landtag"],
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "HEL",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Hessen Landesregierung und Landtag"],
+    "federalState": "Hessen",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "LSA",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Sachsen-Anhalt Landesregierung, Landtag und Polizei"],
+    "federalState": "Sachsen-Anhalt",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "LSN",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Sachsen Landesregierung und Landtag"],
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "MVL",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Mecklenburg-Vorpommern Landesregierung (einschließlich Landespolizei) und Landtag"],
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "NL",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Niedersachsen Landesregierung und Landtag"],
+    "federalState": "Niedersachsen",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "NRW",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Nordrhein-Westfalen Landesregierung, Landtag und Polizei"],
+    "federalState": "Nordrhein-Westfalen",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "RPL",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Rheinland-Pfalz Landesregierung, Landtag und Polizei"],
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "SAL",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Saarland Landesregierung, Landtag und Polizei"],
+    "federalState": "Saarland",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "SH",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Schleswig-Holstein Landesregierung, Landtag und Polizei"],
+    "federalState": "Schleswig-Holstein",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  },
+  {
+    "identifier": "THL",
+    "type": "GOVERNMENT",
+    "authorityNames": ["Thüringen Landesregierung und Landtag"],
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html"
+  }
+]

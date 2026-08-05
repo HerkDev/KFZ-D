@@ -1,0 +1,49 @@
+[
+  {
+    "identifier": "DDQ",
+    "authorityNames": [
+      "Polizei Sachsen"
+    ],
+    "federalState": "Sachsen",
+    "type": "STATE_POLICE",
+    "status": "ACTIVE",
+    "source": "https://www.saechsische.de/sachsen/simson-mit-polizeikennzeichen-gestoppt-GUZE27WU5PV2QCT7C5AH5QUNP4.html",
+    "sourceType": "SECONDARY"
+  },
+  {
+    "identifier": "BD4",
+    "authorityNames": [
+      "Bundesverfassungsgericht"
+    ],
+    "federalState": "Deutschland",
+    "type": "FEDERAL_CONSTITUTIONAL_COURT",
+    "status": "ACTIVE",
+    "source": "https://www.kennzeichenwelt.de/bundesrepublik-seit-1956/bundestag-und-bundesregierung/bundesverfassungsgericht",
+    "sourceType": "SECONDARY",
+    "notes": "FZV Anlage 2 nennt für BD 4 die Zulassungsbehörde Karlsruhe; die konkrete Zuordnung zum Bundesverfassungsgericht ist sekundär dokumentiert."
+  },
+  {
+    "identifier": "BD8",
+    "authorityNames": [
+      "Generalzolldirektion / Zollverwaltung"
+    ],
+    "federalState": "Deutschland",
+    "type": "FEDERAL_FINANCE_ADMINISTRATION",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html",
+    "sourceType": "PRIMARY",
+    "notes": "Kfz-Zulassungsstelle der Generalzolldirektion, Dienstort Offenbach."
+  },
+  {
+    "identifier": "BD16",
+    "authorityNames": [
+      "Generalzolldirektion / Zollverwaltung"
+    ],
+    "federalState": "Deutschland",
+    "type": "FEDERAL_FINANCE_ADMINISTRATION",
+    "status": "ACTIVE",
+    "source": "https://www.gesetze-im-internet.de/fzv_2023/anlage_2.html",
+    "sourceType": "PRIMARY",
+    "notes": "Kfz-Zulassungsstelle der Generalzolldirektion, Dienstort Offenbach."
+  }
+]
