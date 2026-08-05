@@ -1,0 +1,26 @@
+KFZ-D ist eine vollständig offline arbeitende Android-App zum Nachschlagen deutscher Kfz-Kennzeichen.
+
+Die App erkennt geografische Kennungen, Behördenkennzeichen, Sonderkennzeichen sowie diplomatische Kennungen und zeigt deren Bedeutung direkt während der Eingabe an.
+
+Funktionen
+
+• Sofortige Suche bereits während der Eingabe
+• Geografische Kennungen
+• Behörden- und Sonderkennzeichen
+• Diplomatische Kennungen
+• Unterstützung mehrfach belegter Kennungen
+• Groß-/Kleinschreibung und Leerzeichen werden automatisch berücksichtigt
+• Vollständig offline
+• Keine Werbung
+• Kein Tracking
+• Keine Benutzerkonten
+• Keine Internetverbindung erforderlich
+
+Die App analysiert ausschließlich Kennungen und Kennzeichenserien.
+Es werden keine vollständigen Kennzeichen ausgewertet und keine Fahrzeughalter ermittelt.
+
+Datenstand: 08/2026
+
+Alle Angaben erfolgen ohne Gewähr.
+
+Open-Source-Software unter der MIT-Lizenz.

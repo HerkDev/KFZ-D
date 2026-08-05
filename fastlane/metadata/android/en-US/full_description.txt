@@ -1,0 +1,26 @@
+KFZ-D is a fully offline Android application for looking up German vehicle registration identifiers.
+
+The application recognises geographical identifiers, authority identifiers, special identifiers and diplomatic identifiers while you type.
+
+Features
+
+• Instant lookup while typing
+• Geographical identifiers
+• Government and authority identifiers
+• Diplomatic identifiers
+• Support for identifiers with multiple meanings
+• Automatic handling of upper/lower case and spaces
+• Fully offline
+• No advertising
+• No tracking
+• No user accounts
+• No Internet connection required
+
+The application analyses identifier prefixes only.
+It does not analyse complete registration numbers and cannot identify vehicle owners.
+
+Data status: 08/2026
+
+All information is provided without warranty.
+
+Open-source software licensed under the MIT License.

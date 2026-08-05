@@ -1,0 +1,7 @@
+Initial public release.
+
+• Offline lookup of German registration identifiers
+• Geographical, authority and diplomatic identifiers
+• Support for multiple official meanings
+• No advertising
+• No tracking
