@@ -34,11 +34,11 @@ class PlateSearchTest {
 
     @Test
     fun allAssetsLoadWithCurrentCounts() {
-        assertEquals(690, geographicalEntries.size)
+        assertEquals(691, geographicalEntries.size)
         assertEquals(25, specialEntries.size)
         assertEquals(208, diplomaticEntries.size)
         assertEquals(4, authoritySeriesEntries.size)
-        assertEquals(927, allEntries.size)
+        assertEquals(928, allEntries.size)
         assertEquals(geographicalEntries.sortedBy { it.identifier }, geographicalEntries)
     }
 
@@ -107,6 +107,28 @@ class PlateSearchTest {
         assertAuthority("H", "Region Hannover", GeographicalAuthorityType.CITY_REGION)
         assertAuthority("AC", "Städteregion Aachen", GeographicalAuthorityType.CITY_REGION)
         assertAuthority("SB", "Regionalverband Saarbrücken", GeographicalAuthorityType.REGIONAL_ASSOCIATION)
+        assertAuthority("EF", "Erfurt", GeographicalAuthorityType.INDEPENDENT_CITY)
+    }
+
+    @Test
+    fun efExactLookupHasMandatoryFieldsAndDocumentedSource() {
+        val entry = repository.findByIdentifier("EF")
+        assertEquals("Erfurt", entry?.authorityNames?.single())
+        assertEquals("Thüringen", entry?.federalState)
+        assertEquals(PlateType.GEOGRAPHICAL, entry?.type)
+        assertEquals(GeographicalAuthorityType.INDEPENDENT_CITY, entry?.authorities?.single()?.authorityType)
+        assertEquals("https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf", entry?.source)
+        assertEquals("PRIMARY", entry?.sourceType?.name)
+    }
+
+    @Test
+    fun muExactLookupUsesLandkreisMuenchen() {
+        assertEquals(listOf("Landkreis München"), repository.findByIdentifier("MU")?.authorityNames)
+    }
+
+    @Test
+    fun allGeographicalIdentifiersRemainDuplicateFree() {
+        assertEquals(geographicalEntries.size, geographicalEntries.map { it.identifier }.distinct().size)
     }
 
     @Test

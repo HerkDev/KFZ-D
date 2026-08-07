@@ -1521,6 +1521,18 @@
     ]
   },
   {
+    "identifier": "EF",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erfurt",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
+    "sourceType": "PRIMARY"
+  },  {
     "identifier": "EG",
     "federalState": "Bayern",
     "status": "ACTIVE",
@@ -4443,7 +4455,7 @@
     "status": "ACTIVE",
     "authorities": [
       {
-        "name": "München",
+        "name": "Landkreis München",
         "authorityType": "DISTRICT"
       }
     ]
