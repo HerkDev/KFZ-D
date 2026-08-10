@@ -29,7 +29,6 @@
     <string name="developer_label">Entwickler</string>
     <string name="developer_name">HerkDev</string>
     <string name="information_version_label">Version</string>
-    <string name="information_version_value">1.0</string>
     <string name="information_data_status_label">Datenstand</string>
     <string name="information_data_status_value">08.2026</string>
     <string name="legal_notice">Alle Angaben ohne Gewähr.</string>

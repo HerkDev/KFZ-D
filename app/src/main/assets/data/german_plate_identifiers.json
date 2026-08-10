@@ -147,6 +147,19 @@
     ]
   },
   {
+    "identifier": "AM",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Amberg",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "AN",
     "federalState": "Bayern",
     "status": "ACTIVE",
@@ -764,6 +777,19 @@
     ]
   },
   {
+    "identifier": "BRB",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Brandenburg an der Havel",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "BRG",
     "federalState": "Sachsen-Anhalt",
     "status": "ACTIVE",
@@ -948,6 +974,19 @@
     ]
   },
   {
+    "identifier": "C",
+    "federalState": "Sachsen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Chemnitz",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "CA",
     "federalState": "Brandenburg",
     "status": "ACTIVE",
@@ -968,6 +1007,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "CB",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Cottbus",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "CE",
@@ -1665,6 +1717,19 @@
     ]
   },
   {
+    "identifier": "ER",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Erlangen",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "ERB",
     "federalState": "Hessen",
     "status": "ACTIVE",
@@ -2015,6 +2080,19 @@
     ]
   },
   {
+    "identifier": "FT",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Frankenthal (Pfalz)",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "FTL",
     "federalState": "Sachsen",
     "status": "ACTIVE",
@@ -2068,6 +2146,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "G",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Gera",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "GA",
@@ -3054,6 +3145,19 @@
     ]
   },
   {
+    "identifier": "HST",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Hansestadt Stralsund",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "HU",
     "federalState": "Hessen",
     "status": "ACTIVE",
@@ -3190,6 +3294,19 @@
     ]
   },
   {
+    "identifier": "IN",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ingolstadt",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "IZ",
     "federalState": "Schleswig-Holstein",
     "status": "ACTIVE",
@@ -3199,6 +3316,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "J",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Jena",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "JB",
@@ -3289,6 +3419,19 @@
     ]
   },
   {
+    "identifier": "KE",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kelheim",
+        "authorityType": "DISTRICT"
+      }
+    ],
+    "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "KEH",
     "federalState": "Bayern",
     "status": "ACTIVE",
@@ -3324,6 +3467,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "KF",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Kaufbeuren",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "KG",
@@ -3434,6 +3590,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "KO",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Koblenz",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "KR",
@@ -3665,6 +3834,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "LD",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Landau in der Pfalz",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "LDK",
@@ -3921,6 +4103,19 @@
     ]
   },
   {
+    "identifier": "LU",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Ludwigshafen am Rhein",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "LUK",
     "federalState": "Brandenburg",
     "status": "ACTIVE",
@@ -4000,6 +4195,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "MA",
+    "federalState": "Baden-Württemberg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Mannheim",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "MAB",
@@ -4279,6 +4487,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "MM",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Memmingen",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "MN",
@@ -4627,6 +4848,19 @@
     ]
   },
   {
+    "identifier": "NB",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neubrandenburg",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "ND",
     "federalState": "Bayern",
     "status": "ACTIVE",
@@ -4915,6 +5149,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "NW",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Neustadt an der Weinstraße",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "NWM",
@@ -5245,6 +5492,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "P",
+    "federalState": "Brandenburg",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Potsdam",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "PA",
@@ -6006,6 +6266,19 @@
     ]
   },
   {
+    "identifier": "SC",
+    "federalState": "Bayern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwabach",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "SCZ",
     "federalState": "Thüringen",
     "status": "ACTIVE",
@@ -6182,6 +6455,19 @@
     ]
   },
   {
+    "identifier": "SHL",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Suhl",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "SI",
     "federalState": "Nordrhein-Westfalen",
     "status": "ACTIVE",
@@ -6355,6 +6641,19 @@
     ]
   },
   {
+    "identifier": "SN",
+    "federalState": "Mecklenburg-Vorpommern",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Schwerin",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
+    "sourceType": "PRIMARY"
+  },
+  {
     "identifier": "SO",
     "federalState": "Nordrhein-Westfalen",
     "status": "ACTIVE",
@@ -6408,6 +6707,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "SP",
+    "federalState": "Rheinland-Pfalz",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Speyer",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "SPB",
@@ -7198,6 +7510,19 @@
         "authorityType": "DISTRICT"
       }
     ]
+  },
+  {
+    "identifier": "WE",
+    "federalState": "Thüringen",
+    "status": "ACTIVE",
+    "authorities": [
+      {
+        "name": "Weimar",
+        "authorityType": "INDEPENDENT_CITY"
+      }
+    ],
+    "source": "https://www.bundesanzeiger.de/pub/publication/3vcfssiy7629N4Z9Iaf/content/3vcfssiy7629N4Z9Iaf/BAnz%20AT%2015.04.2016%20B4.pdf",
+    "sourceType": "PRIMARY"
   },
   {
     "identifier": "WEL",

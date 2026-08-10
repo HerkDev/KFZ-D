@@ -34,11 +34,11 @@ class PlateSearchTest {
 
     @Test
     fun allAssetsLoadWithCurrentCounts() {
-        assertEquals(691, geographicalEntries.size)
+        assertEquals(716, geographicalEntries.size)
         assertEquals(25, specialEntries.size)
         assertEquals(208, diplomaticEntries.size)
         assertEquals(4, authoritySeriesEntries.size)
-        assertEquals(928, allEntries.size)
+        assertEquals(953, allEntries.size)
         assertEquals(geographicalEntries.sortedBy { it.identifier }, geographicalEntries)
     }
 

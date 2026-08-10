@@ -334,6 +334,10 @@ private fun SearchIcon() {
 
 @Composable
 private fun InformationScreen(onBack: () -> Unit) {
+    val context = LocalContext.current
+    val versionName = remember(context) {
+        context.packageManager.getPackageInfo(context.packageName, 0).versionName.orEmpty()
+    }
     val backDescription = stringResource(R.string.back_content_description)
     Scaffold(
         containerColor = MainScreenBackground,
@@ -409,7 +413,7 @@ private fun InformationScreen(onBack: () -> Unit) {
                 textAlign = TextAlign.Center
             )
             Text(
-                text = stringResource(R.string.information_version_value),
+                text = versionName,
                 color = DkfzPrimaryText,
                 fontSize = 16.sp,
                 lineHeight = 16.sp,

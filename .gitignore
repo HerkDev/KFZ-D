@@ -27,3 +27,6 @@ desktop.ini
 # Logs
 *.log
 **/build/
+
+# CODE RULES
+CODE-RULES.md
