@@ -3,6 +3,7 @@
 import androidx.compose.ui.graphics.Color
 
 val DkfzBackground = Color(0xFFF9FAFC)
+val DkfzMainBackground = Color(0xFFF2F5F8)
 val DkfzPrimaryText = Color(0xFF15181C)
 val DkfzSecondaryText = Color(0xFF4A5058)
 val DkfzDivider = Color(0xFFB8BEC6)

@@ -3,6 +3,7 @@ package de.herk.kfzd.ui
 import androidx.compose.foundation.background
 import androidx.compose.foundation.Canvas
 import androidx.compose.foundation.Image
+import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
@@ -50,6 +51,7 @@ import androidx.compose.ui.graphics.drawscope.Stroke
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.platform.LocalFocusManager
 import androidx.compose.ui.platform.LocalSoftwareKeyboardController
+import androidx.activity.compose.BackHandler
 import androidx.compose.ui.geometry.Rect
 import androidx.compose.ui.layout.boundsInRoot
 import androidx.compose.ui.layout.onGloballyPositioned
@@ -64,15 +66,9 @@ import de.herk.kfzd.data.model.GeographicalAuthorityType
 import de.herk.kfzd.data.model.PlateEntry
 import de.herk.kfzd.data.model.PlateType
 import de.herk.kfzd.data.matcher.IdentifierMatcher
+import de.herk.kfzd.data.matcher.IdentifierInputAdmission
 import de.herk.kfzd.data.repository.GeographicalPlateRepository
 import de.herk.kfzd.data.repository.InMemoryPlateRepository
-import de.herk.kfzd.ui.theme.DkfzBackground
-import de.herk.kfzd.ui.theme.DkfzDivider
-import de.herk.kfzd.ui.theme.DkfzInputBackground
-import de.herk.kfzd.ui.theme.DkfzInputBorder
-import de.herk.kfzd.ui.theme.DkfzInputFocusedBorder
-import de.herk.kfzd.ui.theme.DkfzPrimaryText
-import de.herk.kfzd.ui.theme.DkfzSecondaryText
 import de.herk.kfzd.ui.theme.DkfzTopBar
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
@@ -84,9 +80,14 @@ import androidx.compose.ui.unit.sp
 import androidx.compose.foundation.shape.RoundedCornerShape
 
 private val TopBarBlue = DkfzTopBar
-private val ScreenBackground = DkfzBackground
-private val MainScreenBackground = Color(0xFFF2F5F8)
 private val MainContentShape = RoundedCornerShape(12.dp)
+
+private enum class InformationPage {
+    NONE,
+    OVERVIEW,
+    MIT_LICENSE,
+    THIRD_PARTY_NOTICES
+}
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -96,6 +97,7 @@ fun DkfzApp() {
     val context = LocalContext.current
     val repository = remember(context) { GeographicalPlateRepository(context) }
     val matcher = remember { IdentifierMatcher(repository) }
+    val inputAdmission = remember { IdentifierInputAdmission(matcher) }
     val focusManager = LocalFocusManager.current
     val keyboardController = LocalSoftwareKeyboardController.current
     val focusRequester = remember { FocusRequester() }
@@ -108,13 +110,46 @@ fun DkfzApp() {
             keyboardController?.show()
         }
     }
-    var showInformation by remember { mutableStateOf(false) }
+    var informationPage by remember { mutableStateOf(InformationPage.NONE) }
     val menuDescription = stringResource(R.string.menu_content_description)
 
-    if (showInformation) {
-        InformationScreen(onBack = { showInformation = false })
-        return
+    BackHandler(enabled = informationPage != InformationPage.NONE) {
+        informationPage = if (informationPage == InformationPage.OVERVIEW) {
+            InformationPage.NONE
+        } else {
+            InformationPage.OVERVIEW
+        }
     }
+
+    when (informationPage) {
+        InformationPage.OVERVIEW -> {
+            InformationScreen(
+                onBack = { informationPage = InformationPage.NONE },
+                onLicenseClick = { informationPage = InformationPage.MIT_LICENSE },
+                onNoticesClick = { informationPage = InformationPage.THIRD_PARTY_NOTICES }
+            )
+            return
+        }
+        InformationPage.MIT_LICENSE -> {
+            LegalDocumentScreen(
+                title = stringResource(R.string.information_license_name),
+                resourceId = R.raw.license_mit,
+                onBack = { informationPage = InformationPage.OVERVIEW }
+            )
+            return
+        }
+        InformationPage.THIRD_PARTY_NOTICES -> {
+            LegalDocumentScreen(
+                title = stringResource(R.string.information_third_party_notices),
+                resourceId = R.raw.third_party_notices,
+                onBack = { informationPage = InformationPage.OVERVIEW }
+            )
+            return
+        }
+        InformationPage.NONE -> Unit
+    }
+
+    val colors = MaterialTheme.colorScheme
 
     Scaffold(
         modifier = Modifier
@@ -147,7 +182,7 @@ fun DkfzApp() {
                     }
                 }
             },
-        containerColor = MainScreenBackground,
+        containerColor = colors.background,
         topBar = {
             Box(
                 modifier = Modifier
@@ -178,7 +213,7 @@ fun DkfzApp() {
                         .size(width = 72.dp, height = 47.dp)
                 )
                 IconButton(
-                    onClick = { showInformation = true },
+                    onClick = { informationPage = InformationPage.OVERVIEW },
                     modifier = Modifier
                         .align(Alignment.CenterEnd)
                         .padding(end = 8.dp)
@@ -214,7 +249,7 @@ fun DkfzApp() {
                     text = stringResource(R.string.license_plate_input),
                     fontSize = 16.sp,
                     fontWeight = FontWeight.Medium,
-                    color = DkfzPrimaryText,
+                    color = colors.onSurface,
                     modifier = Modifier.padding(top = 2.dp)
                 )
                 Spacer(modifier = Modifier.height(6.dp))
@@ -222,12 +257,7 @@ fun DkfzApp() {
                     value = query,
                     onValueChange = { value ->
                         val candidate = value.uppercase()
-                        val canEdit = if (candidate.length <= query.length) {
-                            matcher.canAcceptInput(candidate)
-                        } else {
-                            matcher.canAcceptNextCharacter(query, candidate)
-                        }
-                        if (canEdit) {
+                        if (inputAdmission.accepts(query, candidate)) {
                             query = candidate
                             result = repository.findByIdentifier(query)
                         }
@@ -242,19 +272,19 @@ fun DkfzApp() {
                     trailingIcon = { SearchIcon() },
                     textStyle = MaterialTheme.typography.bodyLarge.copy(
                         fontSize = 18.sp,
-                        color = DkfzPrimaryText,
+                        color = colors.onSurface,
                         fontWeight = FontWeight.SemiBold
                     ),
                     colors = OutlinedTextFieldDefaults.colors(
-                        focusedTextColor = DkfzPrimaryText,
-                        unfocusedTextColor = DkfzPrimaryText,
-                        focusedLabelColor = DkfzPrimaryText,
-                        unfocusedLabelColor = DkfzPrimaryText,
-                        cursorColor = DkfzInputFocusedBorder,
-                        focusedBorderColor = DkfzInputFocusedBorder,
-                        unfocusedBorderColor = DkfzInputBorder,
-                        focusedContainerColor = DkfzInputBackground,
-                        unfocusedContainerColor = DkfzInputBackground
+                        focusedTextColor = colors.onSurface,
+                        unfocusedTextColor = colors.onSurface,
+                        focusedLabelColor = colors.onSurface,
+                        unfocusedLabelColor = colors.onSurface,
+                        cursorColor = colors.primary,
+                        focusedBorderColor = colors.primary,
+                        unfocusedBorderColor = colors.outline,
+                        focusedContainerColor = colors.surface,
+                        unfocusedContainerColor = colors.surface
                     ),
                     keyboardOptions = KeyboardOptions(
                         capitalization = KeyboardCapitalization.Characters,
@@ -281,14 +311,14 @@ fun DkfzApp() {
                     textAlign = TextAlign.Center,
                     fontSize = 12.sp,
                     lineHeight = 12.sp,
-                    color = DkfzSecondaryText
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
                 )
                 Text(
                     text = stringResource(R.string.data_status),
                     textAlign = TextAlign.Center,
                     fontSize = 12.sp,
                     lineHeight = 12.sp,
-                    color = DkfzSecondaryText
+                    color = MaterialTheme.colorScheme.onSurfaceVariant
                 )
             }
         }
@@ -310,6 +340,7 @@ private fun HamburgerIcon() {
 @Composable
 private fun SearchIcon() {
     val searchDescription = stringResource(R.string.search_content_description)
+    val iconColor = MaterialTheme.colorScheme.onSurfaceVariant
     Canvas(
         modifier = Modifier
             .size(24.dp)
@@ -317,13 +348,13 @@ private fun SearchIcon() {
     ) {
         val stroke = 2.dp.toPx()
         drawCircle(
-            color = DkfzSecondaryText,
+            color = iconColor,
             radius = 7.dp.toPx(),
             center = Offset(10.dp.toPx(), 10.dp.toPx()),
             style = Stroke(width = stroke)
         )
         drawLine(
-            color = DkfzSecondaryText,
+            color = iconColor,
             start = Offset(15.dp.toPx(), 15.dp.toPx()),
             end = Offset(20.dp.toPx(), 20.dp.toPx()),
             strokeWidth = stroke,
@@ -333,14 +364,18 @@ private fun SearchIcon() {
 }
 
 @Composable
-private fun InformationScreen(onBack: () -> Unit) {
+private fun InformationScreen(
+    onBack: () -> Unit,
+    onLicenseClick: () -> Unit,
+    onNoticesClick: () -> Unit
+) {
     val context = LocalContext.current
     val versionName = remember(context) {
         context.packageManager.getPackageInfo(context.packageName, 0).versionName.orEmpty()
     }
     val backDescription = stringResource(R.string.back_content_description)
     Scaffold(
-        containerColor = MainScreenBackground,
+        containerColor = MaterialTheme.colorScheme.background,
         topBar = {
             Box(
                 modifier = Modifier
@@ -380,7 +415,7 @@ private fun InformationScreen(onBack: () -> Unit) {
         ) {
             Text(
                 text = stringResource(R.string.application_name),
-                color = DkfzPrimaryText,
+                color = MaterialTheme.colorScheme.onSurface,
                 fontSize = 16.sp,
                 lineHeight = 16.sp,
                 fontWeight = FontWeight.SemiBold,
@@ -389,7 +424,7 @@ private fun InformationScreen(onBack: () -> Unit) {
             Spacer(modifier = Modifier.height(12.dp))
             Text(
                 text = stringResource(R.string.developer_label),
-                color = DkfzSecondaryText,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
                 fontSize = 12.sp,
                 lineHeight = 12.sp,
                 fontWeight = FontWeight.Medium,
@@ -397,7 +432,7 @@ private fun InformationScreen(onBack: () -> Unit) {
             )
             Text(
                 text = stringResource(R.string.developer_name),
-                color = DkfzPrimaryText,
+                color = MaterialTheme.colorScheme.onSurface,
                 fontSize = 16.sp,
                 lineHeight = 16.sp,
                 fontWeight = FontWeight.SemiBold,
@@ -406,7 +441,7 @@ private fun InformationScreen(onBack: () -> Unit) {
             Spacer(modifier = Modifier.height(12.dp))
             Text(
                 text = stringResource(R.string.information_version_label),
-                color = DkfzSecondaryText,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
                 fontSize = 12.sp,
                 lineHeight = 12.sp,
                 fontWeight = FontWeight.Medium,
@@ -414,7 +449,7 @@ private fun InformationScreen(onBack: () -> Unit) {
             )
             Text(
                 text = versionName,
-                color = DkfzPrimaryText,
+                color = MaterialTheme.colorScheme.onSurface,
                 fontSize = 16.sp,
                 lineHeight = 16.sp,
                 fontWeight = FontWeight.SemiBold,
@@ -423,7 +458,7 @@ private fun InformationScreen(onBack: () -> Unit) {
             Spacer(modifier = Modifier.height(12.dp))
             Text(
                 text = stringResource(R.string.information_data_status_label),
-                color = DkfzSecondaryText,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
                 fontSize = 12.sp,
                 lineHeight = 12.sp,
                 fontWeight = FontWeight.Medium,
@@ -431,7 +466,7 @@ private fun InformationScreen(onBack: () -> Unit) {
             )
             Text(
                 text = stringResource(R.string.information_data_status_value),
-                color = DkfzPrimaryText,
+                color = MaterialTheme.colorScheme.onSurface,
                 fontSize = 16.sp,
                 lineHeight = 16.sp,
                 fontWeight = FontWeight.SemiBold,
@@ -440,7 +475,7 @@ private fun InformationScreen(onBack: () -> Unit) {
             Spacer(modifier = Modifier.height(12.dp))
             Text(
                 text = stringResource(R.string.legal_notice),
-                color = DkfzSecondaryText,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
                 fontSize = 12.sp,
                 lineHeight = 12.sp,
                 fontWeight = FontWeight.Medium,
@@ -449,7 +484,7 @@ private fun InformationScreen(onBack: () -> Unit) {
             Spacer(modifier = Modifier.height(12.dp))
             Text(
                 text = stringResource(R.string.information_open_source_label),
-                color = DkfzSecondaryText,
+                color = MaterialTheme.colorScheme.onSurfaceVariant,
                 fontSize = 12.sp,
                 lineHeight = 12.sp,
                 fontWeight = FontWeight.Medium,
@@ -457,7 +492,8 @@ private fun InformationScreen(onBack: () -> Unit) {
             )
             Text(
                 text = stringResource(R.string.information_license_name),
-                color = DkfzPrimaryText,
+                color = MaterialTheme.colorScheme.onSurface,
+                modifier = Modifier.clickable(onClick = onLicenseClick),
                 fontSize = 16.sp,
                 lineHeight = 16.sp,
                 fontWeight = FontWeight.SemiBold,
@@ -465,11 +501,70 @@ private fun InformationScreen(onBack: () -> Unit) {
             )
             Text(
                 text = stringResource(R.string.information_third_party_notices),
-                color = DkfzPrimaryText,
+                color = MaterialTheme.colorScheme.onSurface,
+                modifier = Modifier.clickable(onClick = onNoticesClick),
                 fontSize = 16.sp,
                 lineHeight = 16.sp,
                 fontWeight = FontWeight.SemiBold,
                 textAlign = TextAlign.Center
+            )
+        }
+    }
+}
+
+@Composable
+private fun LegalDocumentScreen(
+    title: String,
+    resourceId: Int,
+    onBack: () -> Unit
+) {
+    val context = LocalContext.current
+    val document = remember(context, resourceId) {
+        context.resources.openRawResource(resourceId).bufferedReader(Charsets.UTF_8).use { it.readText() }
+    }
+    val backDescription = stringResource(R.string.back_content_description)
+    Scaffold(
+        containerColor = MaterialTheme.colorScheme.background,
+        topBar = {
+            Box(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .statusBarsPadding()
+                    .height(56.dp)
+                    .background(TopBarBlue)
+            ) {
+                IconButton(
+                    onClick = onBack,
+                    modifier = Modifier
+                        .align(Alignment.CenterStart)
+                        .padding(start = 8.dp)
+                        .semantics { contentDescription = backDescription }
+                ) {
+                    Canvas(modifier = Modifier.size(24.dp)) {
+                        drawLine(Color.White, Offset(15.dp.toPx(), 4.dp.toPx()), Offset(7.dp.toPx(), 12.dp.toPx()), 2.dp.toPx(), StrokeCap.Round)
+                        drawLine(Color.White, Offset(7.dp.toPx(), 12.dp.toPx()), Offset(15.dp.toPx(), 20.dp.toPx()), 2.dp.toPx(), StrokeCap.Round)
+                    }
+                }
+                Text(
+                    text = title,
+                    modifier = Modifier.align(Alignment.Center),
+                    color = Color.White,
+                    fontWeight = FontWeight.SemiBold
+                )
+            }
+        }
+    ) { contentPadding ->
+        Column(
+            modifier = Modifier
+                .fillMaxSize()
+                .padding(contentPadding)
+                .verticalScroll(rememberScrollState())
+                .padding(horizontal = 24.dp, vertical = 24.dp)
+        ) {
+            Text(
+                text = document,
+                color = MaterialTheme.colorScheme.onBackground,
+                style = MaterialTheme.typography.bodyMedium
             )
         }
     }
@@ -516,7 +611,7 @@ private fun SearchResult(
     Card(
         modifier = modifier.fillMaxWidth(),
         shape = MainContentShape,
-        colors = CardDefaults.cardColors(containerColor = Color.White),
+        colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
         elevation = CardDefaults.cardElevation(defaultElevation = 2.dp)
     ) {
         Column(
@@ -526,14 +621,14 @@ private fun SearchResult(
         ) {
             ResultSection(
                 label = stringResource(R.string.result_authority),
-                value = if (isWaiting) stringResource(R.string.no_result_value) else (result?.authorities?.map { it.name }?.takeIf { it.isNotEmpty() } ?: result?.authorityNames)?.joinToString("\n") ?: stringResource(R.string.no_result_value)
+                value = if (isWaiting) stringResource(R.string.no_result) else (result?.authorities?.map { it.name }?.takeIf { it.isNotEmpty() } ?: result?.authorityNames)?.joinToString("\n") ?: stringResource(R.string.no_result_value)
             )
-            HorizontalDivider(thickness = 1.dp, color = DkfzDivider)
+            HorizontalDivider(thickness = 1.dp, color = MaterialTheme.colorScheme.outlineVariant)
             ResultSection(
                 label = stringResource(R.string.result_state),
                 value = if (isWaiting) stringResource(R.string.no_result_value) else result?.federalState ?: stringResource(R.string.no_result_value)
             )
-            HorizontalDivider(thickness = 1.dp, color = DkfzDivider)
+            HorizontalDivider(thickness = 1.dp, color = MaterialTheme.colorScheme.outlineVariant)
             ResultSection(
                 label = stringResource(R.string.result_type),
                 value = if (isWaiting) stringResource(R.string.no_result_value) else typeLabel(result)
@@ -558,14 +653,14 @@ private fun ResultSection(
             text = label,
             fontSize = 14.sp,
             fontWeight = FontWeight.Medium,
-            color = DkfzSecondaryText
+            color = MaterialTheme.colorScheme.onSurfaceVariant
         )
         Text(
             text = value,
             fontSize = 19.sp,
             lineHeight = 19.sp,
             fontWeight = FontWeight.SemiBold,
-            color = DkfzPrimaryText
+            color = MaterialTheme.colorScheme.onSurface
         )
     }
 }
