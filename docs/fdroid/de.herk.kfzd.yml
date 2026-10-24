@@ -1,0 +1,34 @@
+Categories:
+  - Science & Education
+
+License: MIT
+AuthorName: HerkDev
+SourceCode: https://github.com/HerkDev/KFZ-D
+IssueTracker: https://github.com/HerkDev/KFZ-D/issues
+
+AutoName: KFZ-D
+
+Binaries: https://github.com/HerkDev/KFZ-D/releases/download/v%v/KFZ-D-%v.apk
+AllowedAPKSigningKeys: 7b9a30784de829ef3424c9eb950af3db117a0328a27777e88a56f61c8faccd17
+
+RepoType: git
+Repo: https://github.com/HerkDev/KFZ-D.git
+
+Builds:
+  - versionName: '1.0.1'
+    versionCode: 2
+    commit: 38f9ae3efeae7231b48a000817e699b161a32105
+    subdir: app
+    gradle:
+      - yes
+  - versionName: '1.0.6'
+    versionCode: 7
+    commit: v1.0.6
+    subdir: app
+    gradle:
+      - yes
+
+AutoUpdateMode: Version
+UpdateCheckMode: Tags
+CurrentVersion: '1.0.6'
+CurrentVersionCode: 7

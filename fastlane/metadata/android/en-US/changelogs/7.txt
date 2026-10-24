@@ -1,0 +1,3 @@
+• New landscape image in the header
+• Updated wave in the German flag colours
+• Responsive layout for different screen sizes
