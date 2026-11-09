@@ -532,7 +532,7 @@
         "authorityType": "DISTRICT"
       },
       {
-        "name": "Raststatt",
+        "name": "Rastatt",
         "authorityType": "DISTRICT"
       }
     ]
@@ -605,7 +605,7 @@
   },
   {
     "identifier": "BK",
-    "federalState": "Baden-Württemberg",
+    "federalState": "Baden-Württemberg / Sachsen-Anhalt",
     "status": "ACTIVE",
     "authorities": [
       {
@@ -3151,7 +3151,7 @@
     "authorities": [
       {
         "name": "Hansestadt Stralsund",
-        "authorityType": "INDEPENDENT_CITY"
+        "authorityType": "DISTRICT"
       }
     ],
     "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
@@ -3424,8 +3424,8 @@
     "status": "ACTIVE",
     "authorities": [
       {
-        "name": "Kelheim",
-        "authorityType": "DISTRICT"
+        "name": "Kempten",
+        "authorityType": "INDEPENDENT_CITY"
       }
     ],
     "source": "https://www.bmv.de/blaetterkatalog/catalogs/122810/pdf/complete_print.pdf",
@@ -4252,7 +4252,11 @@
     "status": "ACTIVE",
     "authorities": [
       {
-        "name": "Landshut Straubing-Bogen",
+        "name": "Landshut",
+        "authorityType": "DISTRICT"
+      },
+      {
+        "name": "Straubing-Bogen",
         "authorityType": "DISTRICT"
       }
     ]
@@ -5545,7 +5549,7 @@
     "status": "ACTIVE",
     "authorities": [
       {
-        "name": "Kehlheim",
+        "name": "Kelheim",
         "authorityType": "DISTRICT"
       },
       {

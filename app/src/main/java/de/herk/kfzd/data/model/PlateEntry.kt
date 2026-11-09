@@ -52,6 +52,7 @@ data class PlateEntry(
     val status: PlateStatus,
     val type: PlateType = PlateType.GEOGRAPHICAL,
     val authorities: List<GeographicalAuthority> = emptyList(),
+    val namensbezug: String? = null,
     val source: String? = null,
     val sourceType: SourceType? = null,
     val notes: String? = null

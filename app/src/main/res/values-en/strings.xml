@@ -14,6 +14,7 @@
     <string name="result_authority">District / Authority</string>
     <string name="result_authority_value">München</string>
     <string name="result_state">Federal state</string>
+    <string name="result_name_reference">Name origin</string>
     <string name="no_result">No match</string>
     <string name="no_result_value">—</string>
     <string name="authority_type_district">District</string>

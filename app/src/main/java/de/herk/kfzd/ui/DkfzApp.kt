@@ -767,6 +767,15 @@ private fun SearchResult(
                 value = if (isWaiting) stringResource(R.string.no_result_value) else typeLabel(result),
                 metrics = metrics
             )
+            val namensbezug = result?.namensbezug?.takeIf { it.isNotBlank() }
+            if (!isWaiting && namensbezug != null) {
+                HorizontalDivider(thickness = metrics.dp(1f), color = MaterialTheme.colorScheme.outlineVariant)
+                ResultSection(
+                    label = stringResource(R.string.result_name_reference),
+                    value = namensbezug,
+                    metrics = metrics
+                )
+            }
         }
     }
 }

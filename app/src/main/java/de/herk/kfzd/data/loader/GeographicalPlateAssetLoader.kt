@@ -10,20 +10,44 @@ import de.herk.kfzd.data.model.SourceType
 import java.io.InputStream
 
 class GeographicalPlateAssetLoader(private val context: Context) {
-    fun load(): List<PlateEntry> = context.assets.open(ASSET_PATH).use(::parse)
+    fun load(): List<PlateEntry> {
+        val namensbezug = context.assets.open(NAMENSBEZUG_ASSET_PATH).use {
+            PlateAssetJsonReaderFactory.parseNamensbezug(it)
+        }
+        return context.assets.open(ASSET_PATH).use(::parse).withNamensbezug(namensbezug)
+    }
 
     companion object {
         const val ASSET_PATH = "data/german_plate_identifiers.json"
+        const val NAMENSBEZUG_ASSET_PATH = "data/kfzd_namensbezug_mapping.json"
 
         fun parse(input: InputStream): List<PlateEntry> =
             PlateAssetJsonReaderFactory.parse(input, PlateType.GEOGRAPHICAL)
+
+        fun parseWithNamensbezug(
+            geographicalInput: InputStream,
+            namensbezugInput: InputStream
+        ): List<PlateEntry> {
+            val namensbezug = namensbezugInput.use {
+                PlateAssetJsonReaderFactory.parseNamensbezug(it)
+            }
+            return geographicalInput.use(::parse).withNamensbezug(namensbezug)
+        }
     }
 }
+
+private fun List<PlateEntry>.withNamensbezug(mapping: Map<String, String>): List<PlateEntry> =
+    map { entry -> entry.copy(namensbezug = mapping[entry.identifier]) }
 
 internal object PlateAssetJsonReaderFactory {
     fun parse(input: InputStream, defaultType: PlateType): List<PlateEntry> {
         val json = input.bufferedReader(Charsets.UTF_8).use { it.readText().trimStart('\uFEFF') }
         return JsonPlateReader(json, defaultType).readEntries()
+    }
+
+    fun parseNamensbezug(input: InputStream): Map<String, String> {
+        val json = input.bufferedReader(Charsets.UTF_8).use { it.readText().trimStart('\uFEFF') }
+        return JsonPlateReader(json, PlateType.GEOGRAPHICAL).readNamensbezug()
     }
 }
 
@@ -33,6 +57,14 @@ private class JsonPlateReader(private val source: String, private val defaultTyp
     fun readEntries(): List<PlateEntry> {
         val values = readValue() as? List<*> ?: error("Expected JSON array")
         return values.map { readEntry(it as? Map<*, *> ?: error("Expected JSON object")) }
+    }
+
+    fun readNamensbezug(): Map<String, String> {
+        val values = readValue() as? Map<*, *> ?: error("Expected JSON object")
+        return values.entries.associate { (key, value) ->
+            (key as? String ?: error("Expected string mapping key")) to
+                (value as? String ?: error("Expected string mapping value"))
+        }
     }
 
     private fun readEntry(values: Map<*, *>): PlateEntry {
