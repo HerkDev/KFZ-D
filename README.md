@@ -4,7 +4,10 @@ Offline Android app for looking up German vehicle registration identifiers.
 
 ## Screenshot
 
-![Main Screen](docs/screenshots/mainscreen.png)
+<p align='center'>
+  <img src='docs/screenshots/mainscreen-de-dark.png' alt='KFZ-D main screen in German and Dark Mode' width='400' />
+  <img src='docs/screenshots/mainscreen-en-light.png' alt='KFZ-D main screen in English and Light Mode' width='400' />
+</p>
 
 ## Features
 

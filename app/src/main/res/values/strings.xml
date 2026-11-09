@@ -39,6 +39,8 @@
     <string name="data_status">Datenstand 08.2026</string>
     <string name="menu_content_description">Menü öffnen</string>
     <string name="back_content_description">Zurück</string>
+    <string name="theme_setting_label">Dunkelmodus</string>
+    <string name="theme_switch_content_description">Dunkelmodus umschalten</string>
     <string name="search_content_description">Suche</string>
 </resources>
 

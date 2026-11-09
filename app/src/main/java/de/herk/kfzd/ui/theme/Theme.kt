@@ -33,9 +33,12 @@ private val DarkColorScheme = darkColorScheme(
 )
 
 @Composable
-fun DKFZTheme(content: @Composable () -> Unit) {
+fun DKFZTheme(
+    darkTheme: Boolean = isSystemInDarkTheme(),
+    content: @Composable () -> Unit
+) {
     MaterialTheme(
-        colorScheme = if (isSystemInDarkTheme()) DarkColorScheme else LightColorScheme,
+        colorScheme = if (darkTheme) DarkColorScheme else LightColorScheme,
         typography = Typography,
         content = content
     )

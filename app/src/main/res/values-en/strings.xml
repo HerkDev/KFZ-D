@@ -11,7 +11,7 @@
     <string name="state_police_type">State police</string>
     <string name="military_type">Federal Armed Forces</string>
     <string name="diplomatic_type">Diplomatic Corps</string>
-    <string name="result_authority">District / Authority</string>
+    <string name="result_authority">District / Registration authority</string>
     <string name="result_authority_value">München</string>
     <string name="result_state">Federal state</string>
     <string name="result_name_reference">Name origin</string>
@@ -39,5 +39,7 @@
     <string name="data_status">Data status 08.2026</string>
     <string name="menu_content_description">Open menu</string>
     <string name="back_content_description">Back</string>
+    <string name="theme_setting_label">Dark mode</string>
+    <string name="theme_switch_content_description">Toggle dark mode</string>
     <string name="search_content_description">Search</string>
 </resources>

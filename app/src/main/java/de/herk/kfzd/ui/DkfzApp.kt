@@ -15,8 +15,10 @@ import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.offset
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.requiredHeight
+import androidx.compose.foundation.layout.Row
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.statusBarsPadding
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.layout.widthIn
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.text.KeyboardActions
@@ -31,6 +33,7 @@ import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedTextField
 import androidx.compose.material3.OutlinedTextFieldDefaults
 import androidx.compose.material3.Scaffold
+import androidx.compose.material3.Switch
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
@@ -124,7 +127,10 @@ private enum class InformationPage {
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
-fun DkfzApp() {
+fun DkfzApp(
+    isDarkTheme: Boolean,
+    onThemeChange: (Boolean) -> Unit
+) {
     var query by remember { mutableStateOf("") }
     var result by remember { mutableStateOf<PlateEntry?>(null) }
     val context = LocalContext.current
@@ -155,6 +161,8 @@ fun DkfzApp() {
     when (informationPage) {
         InformationPage.OVERVIEW -> {
             InformationScreen(
+                isDarkTheme = isDarkTheme,
+                onThemeChange = onThemeChange,
                 onBack = { informationPage = InformationPage.NONE },
                 onLicenseClick = { informationPage = InformationPage.MIT_LICENSE },
                 onNoticesClick = { informationPage = InformationPage.THIRD_PARTY_NOTICES }
@@ -495,6 +503,8 @@ private fun SearchIcon(metrics: DkfzScreenMetrics) {
 
 @Composable
 private fun InformationScreen(
+    isDarkTheme: Boolean,
+    onThemeChange: (Boolean) -> Unit,
     onBack: () -> Unit,
     onLicenseClick: () -> Unit,
     onNoticesClick: () -> Unit
@@ -504,6 +514,7 @@ private fun InformationScreen(
         context.packageManager.getPackageInfo(context.packageName, 0).versionName.orEmpty()
     }
     val backDescription = stringResource(R.string.back_content_description)
+    val themeSwitchDescription = stringResource(R.string.theme_switch_content_description)
     Scaffold(
         containerColor = MaterialTheme.colorScheme.background,
         topBar = {
@@ -543,6 +554,30 @@ private fun InformationScreen(
             horizontalAlignment = Alignment.CenterHorizontally,
             verticalArrangement = Arrangement.spacedBy(0.dp)
         ) {
+            Row(
+                modifier = Modifier
+                    .fillMaxWidth()
+                    .padding(horizontal = 16.dp),
+                horizontalArrangement = Arrangement.Center,
+                verticalAlignment = Alignment.CenterVertically
+            ) {
+                Text(
+                    text = stringResource(R.string.theme_setting_label),
+                    color = MaterialTheme.colorScheme.onSurface,
+                    fontSize = 16.sp,
+                    lineHeight = 16.sp,
+                    fontWeight = FontWeight.SemiBold
+                )
+                Spacer(modifier = Modifier.width(12.dp))
+                Switch(
+                    checked = isDarkTheme,
+                    onCheckedChange = onThemeChange,
+                    modifier = Modifier.semantics {
+                        contentDescription = themeSwitchDescription
+                    }
+                )
+            }
+            Spacer(modifier = Modifier.height(24.dp))
             Text(
                 text = stringResource(R.string.application_name),
                 color = MaterialTheme.colorScheme.onSurface,
